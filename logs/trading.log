@@ -1,0 +1,12 @@
+2026-03-25 16:33:54,551 - INFO - Placing MARKET order | Symbol=BTCUSDT | Side=BUY | Qty=0.01
+2026-03-25 16:33:54,980 - INFO - Order SUCCESS | ID=12991741316 | Status=NEW | ExecutedQty=0.000 | AvgPrice=0.00
+2026-03-25 16:34:26,327 - INFO - Placing MARKET order | Symbol=BTCUSDT | Side=SELL | Qty=0.01
+2026-03-25 16:34:26,574 - INFO - Order SUCCESS | ID=12991741757 | Status=NEW | ExecutedQty=0.000 | AvgPrice=0.00
+2026-03-25 16:35:00,945 - INFO - Placing LIMIT order | Symbol=BTCUSDT | Side=SELL | Qty=0.01 | Price=30000.0
+2026-03-25 16:35:01,198 - ERROR - Order FAILED | Symbol=BTCUSDT | Side=SELL | Reason=APIError(code=-4024): Limit price can't be lower than 67895.64.
+2026-03-25 16:36:51,783 - INFO - Placing LIMIT order | Symbol=BTCUSDT | Side=BUY | Qty=0.01 | Price=30000.0
+2026-03-25 16:36:52,037 - INFO - Order SUCCESS | ID=12991745248 | Status=NEW | ExecutedQty=0.000 | AvgPrice=0.00
+2026-03-25 16:37:37,583 - INFO - Placing LIMIT order | Symbol=BTCUSDT | Side=SELL | Qty=0.01 | Price=30000.0
+2026-03-25 16:37:37,824 - ERROR - Order FAILED | Symbol=BTCUSDT | Side=SELL | Reason=APIError(code=-4024): Limit price can't be lower than 67895.27.
+2026-03-25 16:37:54,963 - INFO - Placing LIMIT order | Symbol=BTCUSDT | Side=SELL | Qty=0.01 | Price=68000.0
+2026-03-25 16:37:55,238 - INFO - Order SUCCESS | ID=12991746456 | Status=NEW | ExecutedQty=0.000 | AvgPrice=0.00
